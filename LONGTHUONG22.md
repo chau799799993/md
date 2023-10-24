@@ -3,7 +3,6 @@
 "name": "LONGTHUONG22",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "SHBANDO": null }, "geometry": null },
 { "type": "Feature", "properties": { "SHBANDO": "to 1 thua 49my loc" }, "geometry": { "type": "Point", "coordinates": [ 106.595954737701874, 10.651941808911173 ] } },
 { "type": "Feature", "properties": { "SHBANDO": "to 1 thua 300my loc" }, "geometry": { "type": "Point", "coordinates": [ 106.595964136588762, 10.652225491232404 ] } },
 { "type": "Feature", "properties": { "SHBANDO": "to 1 thua 48my loc" }, "geometry": { "type": "Point", "coordinates": [ 106.596134978619091, 10.652002515762717 ] } },
